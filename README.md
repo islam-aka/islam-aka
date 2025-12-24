@@ -48,7 +48,7 @@
   <li>
     Используемые технологии: TypeScript, JavaScript, TailwindCSS, UI-библиотеки Material UI, shadcn/ui, Ant Design
   </li>
-  <li>Стейт-менеджмент: Redux Toolkit, Zustand</li>
+  <li>state-менеджер: Redux Toolkit, Zustand</li>
   <li>
     Работа с WebSocket, интеграции с Google Maps API и Yandex API (карты, метрика)
   </li>
